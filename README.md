@@ -49,7 +49,15 @@ The goal of this analysis was to:
 ---
 
 ## 📷 Dashboard Preview
-(Screenshots added in repository)
+
+### Overview
+![Overview](https://raw.githubusercontent.com/ridhikp/customer-churn-analysis-powerbi/main/Customer_Churn_Overview.png.png)
+
+### Churn Drivers
+![Churn Drivers](https://raw.githubusercontent.com/ridhikp/customer-churn-analysis-powerbi/main/Churn_Drivers.png.png)
+
+### Risk Analysis
+![Risk Analysis](https://raw.githubusercontent.com/ridhikp/customer-churn-analysis-powerbi/main/Risk_Analysis.png.png)
 
 ---
 
