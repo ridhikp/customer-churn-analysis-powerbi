@@ -1,37 +1,65 @@
-# customer-churn-analysis-powerbi
-📌 Project Overview:
-This project analyzes customer churn using a telecom dataset of 7,000+ customers.
-The goal was to identify churn drivers and provide business recommendations to improve retention.
+# 📊 Customer Churn Analysis (Power BI)
 
-🔧 Tools Used:
->Power BI
+## 🔎 Project Overview
+This project analyzes customer churn using a telecom dataset of 7,000+ customers.  
+The objective was to identify key churn drivers and provide data-driven business recommendations to improve customer retention.
 
->DAX
+---
 
->Excel
+## 🎯 Business Problem
+Customer churn impacts revenue and growth.  
+The goal of this analysis was to:
+- Measure churn and retention rate
+- Identify high-risk customer segments
+- Provide actionable retention strategies
 
->Data Analysis
+---
 
-📈 Key Metrics:
->Total Customers
+## 🛠 Tools & Technologies
+- Power BI
+- DAX (Data Analysis Expressions)
+- Excel
+- Data Visualization
+- Business Analysis
 
->Total Churned
+---
 
->Churn Rate %
+## 📊 Key Metrics Created (DAX Measures)
+- Total Customers
+- Total Churned
+- Churn Rate %
+- Retention Rate %
 
->Retention Rate %
+---
 
-🔍 Key Insights:
->Month-to-month contracts show highest churn.
+## 📈 Key Insights
+- Month-to-month contract customers have the highest churn.
+- New customers (low tenure) are more likely to churn.
+- Higher monthly charges increase churn probability.
+- Electronic check users show higher churn compared to other payment methods.
 
->New customers are at greater churn risk.
+---
 
->Higher monthly charges increase churn probability.
+## 💡 Business Recommendations
+- Encourage long-term contracts with discounts.
+- Improve onboarding for new customers.
+- Review pricing strategy for high-charge plans.
+- Introduce loyalty rewards for long-tenure customers.
 
-💡 Business Recommendations:
->Convert month-to-month users to annual plans.
+---
 
->Improve onboarding for new customers.
+## 📷 Dashboard Preview
+(Screenshots added in repository)
 
->Review pricing strategy for high-charge segments.
+---
+
+## 📁 Files Included
+- Power BI Dashboard (.pbix)
+- Dataset (CSV)
+- Dashboard Screenshots
+
+---
+
+## 🚀 Outcome
+Built an interactive dashboard that enables business stakeholders to explore churn drivers and make informed retention decisions.
 
